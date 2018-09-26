@@ -380,7 +380,8 @@ minions["SummonedPhantasm"] = {
 	attackTime = 1.17,
 	attackRange = 4,
 	skillList = {
-		"Melee",
+		"Spell",
+    "Projectile",
 	},
 	modList = {
 	},
